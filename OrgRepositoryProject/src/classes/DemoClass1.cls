@@ -1,7 +1,7 @@
 public class DemoClass1{
 
-String abc  = 'abc';
-String xyz = 'xyz';
+String abc  = 'GitHub';
+String xyz = 'Demo';
 String concatenatedString = abc + xyz;
 
 }
